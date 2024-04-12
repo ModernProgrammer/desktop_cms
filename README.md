@@ -15,6 +15,6 @@ Once you are in the the virtual env, run the following command
 
 _Note: No need to run migrations since we are currently only using the Sql Lite Database, might change to PostgreSQL_
 
-Run the following to start the server
+Run the following, inside the headless_cms folder, to start the server
 
 ```python manage.py runserver```
