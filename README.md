@@ -11,7 +11,7 @@ Need to run the virtual environment which contains all of the required packages.
 
 Once you are in the the virtual env, run the following command
 
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 _Note: No need to run migrations since we are currently only using the Sql Lite Database, might change to PostgreSQL_
 
