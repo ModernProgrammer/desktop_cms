@@ -15,9 +15,9 @@ Once you are in the the virtual env, navigate to the inside the headless_cms fol
 Once in that directory, run the following command to install dependencies
 
 ```pip install -r requirements.txt```
-```python3 -m pip install django-cors-headers
+```python3 -m pip install django-cors-headers```
 
-_Note: No need to run migrations since we are currently only using the Sql Lite Database, might change to PostgreSQL_
+Note: No need to run migrations since we are currently only using the Sql Lite Database, might change to PostgreSQL_
 
 Run the following to start the server
 
